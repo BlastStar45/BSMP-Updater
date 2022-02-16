@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "mixed",
+      "name": "Form1.cs",
+      "project": "Form1.cs",
+      "projectTarget": ""
+    }
+  ]
+}
